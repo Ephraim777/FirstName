@@ -1,0 +1,5 @@
+git remove -v проверка если у папки связь с удалённым репризиторием
+git remote add origin git@github.com:Ephraim777/FirstName.git
+чтобы связать папку с удалённым репризиторием
+ git push -u origin main
+Чтобы отправить данные с локальной папке на удалённый репризиторий
